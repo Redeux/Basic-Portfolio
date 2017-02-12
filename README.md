@@ -1,1 +1,3 @@
-# Basic-PortfolioFirst portfolio for UNC's Coding Bootcamp 2017.
+# Basic-Portfolio
+
+First portfolio for UNC's Coding Bootcamp 2017.
