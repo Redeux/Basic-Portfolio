@@ -48,6 +48,10 @@ nav {
 	font-size: 1.25em;
 }
 
+.nav-links a:hover {
+	color: #1F5D5A;
+}
+
 .break {
 	display: inline-block;
 	border: 1px solid whitesmoke;
@@ -157,6 +161,10 @@ nav {
 	color: white;
 	border: 1px solid #4aaaa5;
 
+}
+
+.main-content input[type="submit"]:hover {
+	background-color: #1F5D5A;
 }
 
 /*Aside - "Connect With Me" box styling */
